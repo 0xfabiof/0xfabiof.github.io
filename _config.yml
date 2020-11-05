@@ -10,7 +10,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Fábio Freitas # add your name
 author-img: david-freeman.jpg # add your photo
-about-author:  MSc Information Security @ DCC - FCUP
+about-author:  >
+  MSc Information Security @ DCC - FCUP
   Security Engineer & Penetration Tester @ Euronext
 social-twitter: @0xfabiof # add your Twitter handle
 social-facebook: # add your Facebook handle
