@@ -2,11 +2,10 @@
 layout: post
 title: HackerOne Vulnerability Report - Reflected XSS in pubg.com
 date: 2019-12-12 13:32:20 +0300
+img: pubg.png
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [bugbounty, application security]
 ---
-
-# HackerOne Vulnerability Report - Reflected XSS in pubg.com
 
 ![hackerone](https://i.imgur.com/vN8sOrp.png)
 
