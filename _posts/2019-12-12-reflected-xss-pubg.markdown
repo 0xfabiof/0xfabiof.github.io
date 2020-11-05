@@ -61,7 +61,7 @@ Cookie: _icl_current_language=en; _icl_visitor_lang_js=en-us; wpml_browser_redir
   
   ![Request](https://i.imgur.com/J7FYcXk.png)
   
-  ## Impact
+## Impact
   
 With user interaction, an attacker could execute arbitrary Javascript code in a victim's browser.
 
@@ -71,9 +71,9 @@ This would allow an attacker to unwillingly make a victim:
  * Modify any information that the user is able to modify (not sure if applicable in this case)
  * Interact with other application users as if it were him - impersonation (not sure if applicable in this case)
  
- ## Mitigation
+## Mitigation
  
  * Sanitize inputs if they are reflected into the html rending
- * Use X-XSS-Protection HTTP headers
+ * Configure Content-Security-Policy Header
  
  [Reference](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
