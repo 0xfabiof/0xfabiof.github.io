@@ -1,7 +1,7 @@
 title: Fábio Freitas | @0xfabiof
 description: > # this means to ignore newlines until "baseurl:"
   MSc Information Security @ DCC - FCUP
-  Security Engineer & Penetration Tester @ Euronext
+  Application Security @ Checkmarx
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Fábio Freitas # add your name
 author-img: ff.jpeg # add your photo
 about-author: MSc Information Security @ DCC - FCUP
-about-author2: Security Engineer & Penetration Tester @ Euronext
+about-author2: Application Security @ Checkmarx
 social-twitter: 0xfabiof # add your Twitter handle
 social-github: 0xfabiof # add your Github handle
 social-linkedin: fábio-freitas-396834150 # add your Linkedin handle
