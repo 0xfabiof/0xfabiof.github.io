@@ -3,7 +3,6 @@ layout: post
 title: Destroying Armies and Villages through Cross-Site Scripting - Bug Bounty Write-up
 date: 2021-01-29 13:32:20 +0300
 img: tw.jpg
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [bugbounty, application security]
 ---
 
