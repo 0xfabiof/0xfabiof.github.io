@@ -7,8 +7,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tags: [bugbounty, application security]
 ---
 
-## Destroying Armies and Villages through Cross-Site Scripting - Bug Bounty Write-up
-
 <p align="center">
 <img src="https://i.imgur.com/pM2sSaE.png"/>
 </p>
