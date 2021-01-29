@@ -51,11 +51,11 @@ So let's demonstrate impact - it was time to get creative.
 
 With the help of [@0xSmiley](https://twitter.com/Nuno97Lopes), we started to brainstorm some ideas. We had two goals:
 
-* **User's Personal/Sensible Information Leak** - as the program classified this as a priority
+* **User's Personal/Sensitive Information Leak** - as the program classified this as a priority
 
 * **Account Take-over** - because it's cool
 
-### Exploiting the Stored XSS for Personal/Sensible Information Leak
+### Exploiting the Stored XSS for Personal/Sensitive Information Leak
 
 In order to do this, we browsed around the user's profile for juicy information we could use for the Proof-of-Concept. We found that the application displays in the user's profile his e-mail address, and also logs and displays the user's IP information - should be enough.
 
