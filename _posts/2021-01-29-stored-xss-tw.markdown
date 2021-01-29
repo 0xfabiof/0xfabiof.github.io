@@ -2,7 +2,7 @@
 layout: post
 title: Destroying Armies and Villages through Cross-Site Scripting - Bug Bounty Write-up
 date: 2021-01-29 13:32:20 +0300
-description: A technical write-up for a 1000€ XSS in one of the most popular browser games of my generation: Tribos.
+description: A technical write-up for a 1000€ XSS in one of the most popular browser games of my generation: Tribos
 img: tw.jpg
 tags: [bugbounty, application security]
 ---
